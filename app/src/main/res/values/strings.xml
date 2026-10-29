@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pro</string>
+    <string name="artificial_intelligence">Artificial Intelligence</string>
+    <string name="artificial_i1">Technology that enables computers to learn, make decisions and solve problems in a way similar to human thinking.</string>
+    <string name="cloud_computing">Cloud Computing</string>
+    <string name="cloud_com1">Storing data and running applications over the internet instead of relying only on your personal device.</string>
+    <string name="internet_of_things">Internet of Things</string>
+    <string name="internet_of_things1">Connecting everyday devices like watches, air conditioners and cameras to the internet so they can communicate and be controlled remotely.</string>
+    <string name="cybersecurity">Cybersecurity</string>
+    <string name="cybersecurity1">Protecting devices, networks and data from hacking and electronic attacks.</string>
+</resources>
